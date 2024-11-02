@@ -41,7 +41,9 @@
 <a href="https://www.linkedin.com/in/shobhittiwari45/" target="_blank" title="LinkedIn">
 <img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-[![Gmail](https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:shobhitt451@gmail.com)
+<a href="mailto:shobhitt451@gmail.com">
+    <img align="left" alt="Gmail" src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
+</a>
 
 Feel free to reach out for web development discussions, collaboration, or just to say hello! 😄
 
