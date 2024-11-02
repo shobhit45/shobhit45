@@ -35,6 +35,10 @@
 ![Firestore](https://img.shields.io/badge/-Firestore-05122A?style=flat&logo=firebase)&nbsp;
 
 ---
+## 📄 &nbsp;[Resume](https://drive.google.com/file/d/1I16QsroB43nRcz-ABrIUDXjkdAK0urr7/view) 
+Click to view my resume and learn more about my experience, skills, and projects.
+
+---
 
 ## 🤝🏻 &nbsp;Connect with Me
 
@@ -49,6 +53,4 @@ Feel free to reach out for web development discussions, collaboration, or just t
 
 ---
 
-## 📄 &nbsp;[Resume]("https://drive.google.com/file/d/1I16QsroB43nRcz-ABrIUDXjkdAK0urr7/view") 
 
-Click to view my resume and learn more about my experience, skills, and projects.
